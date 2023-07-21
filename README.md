@@ -21,4 +21,4 @@ I don't debug. I stare down until the code confesses.
   
  
 </div>
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=churiharsh&theme=dark)](https://git.io/streak-stats)
+ [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=churiharsh)](https://github.com/churiharsh/github-readme-stats)
