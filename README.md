@@ -3,6 +3,7 @@ I don't debug. I stare down until the code confesses.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="100"/>
+  
 </div>
 <div>
  <h3>My Tech Stack</h3>
@@ -21,4 +22,15 @@ I don't debug. I stare down until the code confesses.
   
  
 </div>
- [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=churiharsh)](https://github.com/churiharsh/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=churiharsh&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=churi&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
