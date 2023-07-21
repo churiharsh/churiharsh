@@ -1,4 +1,4 @@
-### Hi there 👋
+
 I don't debug. I stare down until the code confesses.
 <!--
 **churiharsh/churiharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
